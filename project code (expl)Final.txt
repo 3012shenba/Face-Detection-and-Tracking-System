@@ -16,7 +16,6 @@ while True:
     if key == 27:
         break
 cam.release()
-cv2.destroyAllWindows() expain the code for the project named face decetiin and tracking system
 
 
 
